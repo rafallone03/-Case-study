@@ -1,2 +1,22 @@
 # -Case-study
  Case-study
+tapestry-case-study/
+  README.md
+  /01_context/
+    problem-space.md
+    stakeholders-map.md
+  /02_discovery/
+    research-notes.md
+    hypotheses.md
+    risks-assumptions.md
+  /03_solution/
+    product-overview.md
+    system-diagram.png
+    user-flows.png
+    prd-tapestry.md
+  /04_delivery/
+    roadmap-outline.md
+    release-plan.md
+    governance-model.md
+  /05_impact/
+    metrics-and-results.md
