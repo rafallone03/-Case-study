@@ -20,3 +20,4 @@ tapestry-case-study/
     governance-model.md
   /05_impact/
     metrics-and-results.md
+    https://youtu.be/T-b4qxvzneI?si=KhG09SY7PRyHzR5J
