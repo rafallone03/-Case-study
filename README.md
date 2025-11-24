@@ -1,4 +1,4 @@
-# -Case-study
+# tapestry-case-study/
  Case-study
 tapestry-case-study/
   README.md
